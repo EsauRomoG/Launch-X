@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+
+        header {
+            
+            display: flex;
+            height: 70px;
+            background-color: rgb(38, 16, 5);
+            justify-content: space-between;
+            align-items: center;
+            font-size: 25px;
+            color: white;
+            padding: 10px;
+            font-style: oblique;
+            
+        }
+
+        body{
+
+            background-color: rgb(246, 232, 234);
+
+        }
+
+        
+        a{
+            text-decoration: none;
+            color: white;
+
+        }
+
+        .logo{
+            display: flex ;
+            align-items: center;
+        }
+        
+        .logo img{
+            height: 70px;
+            margin-right: 10px;
+        }
+
+        section nav {
+            float: right;
+            width: 10%;
+            height: 300px;
+            /* only for demonstration, should be removed */
+            background: #ccc;
+    
+        }
+    
+        article {
+
+            float: left;
+            width: 90%;
+            height: 300px;
+        }
+
+        article h1{
+
+            text-justify: center;
+            font-style: oblique;
+            font-size: 30px;
+
+        }
+
+    </style>
+
+</head>
+<body>
+
+    <header>
+
+        <div class="logo">
+
+            <img src="./img/logo.png" alt="logo pasteleria" class="logo">
+            <h2 class="frase">Pâtisserie más que una pastelería...</h2>
+
+        </div>
+
+        <div>
+
+            <nav>
+                
+                <a href="" class="link">Inicio</a>
+                <a href="" class="link">Contacto</a>
+                <a href="" class="link">Hacer Pedido</a>
+
+
+            </nav>
+
+        </div>
+        
+    </header>
+
+    <section>
+        <nav>
+            <ul>
+                <li><a href="#">Administración</a></li>
+                <li><a href="#">Pedidos</a></li>
+                <li><a href="#">Edicion</a></li>
+                <li><a href="#">Más</a></li>
+            </ul>
+        </nav>
+
+        <article>
+
+            <h2>Pedidos</h2>
+
+            <table>
+                <tr> <!-- Filas en la tabla-->
+
+                    <th># Pedido</th>  <!-- Nombre de las columnas-->
+                    <th>Nombre</th>
+                    <th>Apellidos</th>
+                    <th>Telefono</th>
+                    <th>Correo</th>
+                    <th>Dirección</th>
+                    <th>Pastel</th>
+                    <th>Tamaño</th>
+
+
+                </tr>
+    
+                <tr>
+                    <td>1</td> 
+                    <td>Esau</td>
+                    <td>Romo García</td>
+                    <td>4741067790</td>
+                    <td>esau@gmail.com</td>
+                    <td>Av.5 #455</td>
+                    <td>Chocolate</td>
+                    <td>Mediano</td>
+
+                </tr>
+    
+                <tr>
+                    <td>2</td> 
+                    <td>Juan</td>
+                    <td>García</td>
+                    <td>4751067790</td>
+                    <td>juan@gmail.com</td>
+                    <td>Av.54 #455</td>
+                    <td>Fresa</td>
+                    <td>Chico</td>
+
+                </tr>
+
+            </table>
+
+            <h2>Sabores</h2>
+
+            <table>
+                <tr> <!-- Filas en la tabla-->
+
+                    <th>Cantidad</th>  <!-- Nombre de las columnas-->
+                    <th>Sabor</th>
+                </tr>
+    
+                <tr>
+                    <td>10</td> 
+                    <td>Fresa</td>
+                </tr>
+    
+                <tr>
+                    <td>10</td> 
+                    <td>Chocolate</td>
+                </tr>
+
+                <tr>
+                    <td>10</td> 
+                    <td>Vainilla</td>
+                </tr>
+
+                <tr>
+                    <td>10</td> 
+                    <td>Limon</td>
+                </tr>
+
+            </table>
+
+            <h2>Adornos</h2>
+
+            <table>
+                <tr> <!-- Filas en la tabla-->
+
+                    <th>Cantidad</th>  <!-- Nombre de las columnas-->
+                    <th>Adorno</th>
+                </tr>
+    
+                <tr>
+                    <td>10</td> 
+                    <td>Fondant</td>
+                </tr>
+    
+                <tr>
+                    <td>10</td> 
+                    <td>Chantilly</td>
+                </tr>
+
+                <tr>
+                    <td>10</td> 
+                    <td>Merengue</td>
+                </tr>
+
+                <tr>
+                    <td>10</td> 
+                    <td>Frutas</td>
+                </tr>
+
+            </table>
+        </article>
+    </section>
+    
+</body>
+</html>
