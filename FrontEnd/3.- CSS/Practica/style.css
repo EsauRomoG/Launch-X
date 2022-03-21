@@ -1,0 +1,1214 @@
+
+        header{
+
+            height: 150px;
+            
+        }
+
+        .section1{
+
+            background: linear-gradient(90deg, rgba(255,255,255,1) 50%, rgba(233,241,252,1) 50%);
+            width: 90%;
+            height: 150px;
+            position: relative;
+            top: 0px;
+            transform: translate(0%, 0%);
+            
+        }
+
+
+        .vaccination{
+
+            color: rgb( 56, 88, 214);
+            font-family: "Rubik", sans-serif;
+            font-weight: 700;
+            position: absolute;
+            top: 45px;
+        }
+
+        .Rubik{
+            font-family: "Rubik", sans-serif;
+            font-weight: 300;
+            color: rgb( 109, 123, 147);
+        }
+
+        .database{
+
+            position: absolute;
+            top: 45px;
+            left: 550px;
+        }
+
+        .education{
+
+            position: absolute;
+            top: 45px;
+            left: 690px;
+
+        }
+
+        .news{
+
+            position: absolute;
+            top: 45px;
+            left: 850px;
+        }
+
+        .regulation{
+
+            position: absolute;
+            top: 45px;
+            left: 970px;
+        }
+
+        .rectangulo{
+            position: absolute;
+            border-radius: 3%;
+            background-color: rgb(41, 73, 199);
+            height: 50px;
+            width: 150px;
+            top: 50px;
+            right: 120px;
+
+        }
+
+        .hoax{
+            position: absolute;
+            font-family: "Rubik", sans-serif;
+            font-weight: 400;
+            color: white;
+            top: 0px;
+            transform: translate(18%, -25%);
+        }
+
+        .centrar{
+
+            position: absolute;
+            top: 0%;
+            left: 50%;
+            transform: translate(-50%, 0%);
+        }
+
+        .section2{
+
+            width: 45%;
+            position: relative;
+            top: 0px;
+            transform: translate(0%, 0%);
+
+        }  
+
+        .triangulo1 {
+
+            position: absolute;
+            top: 0%;
+            left: 2%;
+        }
+
+        .triangulo2{
+
+            position: absolute;
+            top: 160px;
+            left: 312px;
+            height: 270px;
+        }
+
+        .h1 {
+            font-family: "Rubik", sans-serif;
+            color: rgb(31, 62, 114);
+            font-size: 400%;
+            position: absolute;
+            top: 50px;
+            left: 83px;
+        }
+
+        .h2 {
+
+            font-family: "Rubik", sans-serif;
+            color: rgb(31, 62, 114);
+            font-size: 400%;
+            position: absolute;
+            top: 120px;
+            left: 83px;
+        }
+
+        .h3{
+
+            font-family: "Rubik", sans-serif;
+            font-weight: 500;
+            color: rgb( 109, 123, 147);
+            position: absolute;
+            top: 270px;
+            left: 90px;
+
+        }
+
+        .h31{
+
+            font-family: "Rubik", sans-serif;
+            font-weight: 500;
+            color: rgb( 109, 123, 147);
+            position: absolute;
+            top: 300px;
+            left: 90px;
+
+        }
+
+        .h32 {
+
+            font-family: "Rubik", sans-serif;
+            font-weight: 500;
+            color: rgb( 109, 123, 147);
+            position: absolute;
+            top: 330px;
+            left: 90px;
+        }
+
+        .shield{
+            
+            filter: opacity(10%);
+            position: absolute;
+            top: 435px;
+            left: 90px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .shieldtext{
+
+            font-family: "Rubik", sans-serif;
+            color: rgb(84, 108, 148);
+            position: absolute;
+            font-weight: 600;
+            top: 419px;
+            left: 123px;
+
+        }
+
+        .star{
+            
+            filter: opacity(10%);
+            position: absolute;
+            top: 435px;
+            left: 270px;
+            width: 30px;
+            height: 30px;
+        }
+
+        .stardtext{
+
+            font-family: "Rubik", sans-serif;
+            color: rgb(84, 108, 148);
+            position: absolute;
+            font-weight: 600;
+            top: 419px;
+            left: 305px;
+
+        }
+
+        .schudle{
+            
+            filter: opacity(10%);
+            position: absolute;
+            top: 635px;
+            left: 95px;
+            width: 30x;
+            height: 30px;
+        }
+
+        .schudletext{
+            
+            font-family: "Rubik", sans-serif;
+            color: rgb(40, 70, 120);
+            position: absolute;
+            font-weight: 600;
+            top: 620px;
+            left: 135px;
+        }
+
+        .rectangulo1{
+
+            background-color: rgb(244, 248, 253);
+            height: 140px;
+            width: 900px;
+            position: absolute;
+            top: 850px;
+            left: 105px;
+        }
+
+        .location{
+
+            filter: opacity(10%);
+            position: absolute;
+            top: 35px;
+            left: 40px;
+            width: 30x;
+            height: 30px;
+
+        }
+
+        .locationtext{
+
+            font-family: "Rubik", sans-serif;
+            font-weight: 400;
+            font-size: 140%;
+            color: rgb( 120, 133, 155);
+            position: absolute;
+            top: 15px;
+            left: 75px;
+
+        }
+
+        .date{
+
+            filter: opacity(10%);
+            position: absolute;
+            top: 35px;
+            left: 263px;
+            width: 30x;
+            height: 30px;
+
+        }
+
+        .datetext{
+
+            font-family: "Rubik", sans-serif;
+            font-weight: 400;
+            font-size: 140%;
+            color: rgb( 120, 133, 155);
+            position: absolute;
+            top: 15px;
+            left: 300px;
+        }
+
+        .pencil{
+
+            filter: opacity(10%);
+            position: absolute;
+            top: 35px;
+            left: 490px;
+            width: 30x;
+            height: 30px;   
+
+        }
+
+        .penciltext{
+
+            font-family: "Rubik", sans-serif;
+            font-weight: 400;
+            font-size: 140%;
+            color: rgb( 120, 133, 155);
+            position: absolute;
+            top: 15px;
+            left: 525px; 
+
+        }
+
+        .jakarta{
+
+            font-family: "Rubik", sans-serif;
+            color: rgb(40, 70, 120);
+            position: absolute;
+            font-weight: 500;
+            top: 60px;
+            left: 75px;
+
+        }
+
+        .july{
+
+            font-family: "Rubik", sans-serif;
+            color: rgb(40, 70, 120);
+            position: absolute;
+            font-weight: 500;
+            top: 60px;
+            left: 300px;
+
+        }
+
+        .moderna{
+
+            font-family: "Rubik", sans-serif;
+            color: rgb(40, 70, 120);
+            position: absolute;
+            font-weight: 500;
+            top: 60px;
+            left: 526px;
+
+        }
+
+        .submitrec{
+
+            position: absolute;
+            border-radius: 3%;
+            background-color: rgb(41, 73, 199);
+            height: 50px;
+            width: 150px;
+            top: 45px;
+            left: 720px;
+
+        }
+
+        .submit{
+
+            position: absolute;
+            font-family: "Rubik", sans-serif;
+            font-weight: 400;
+            color: white;
+            top: 0px;
+            transform: translate(70%, -25%);
+
+        }
+
+        .section3{
+
+            width: 50%;
+            position:absolute;
+            top: 151px;
+            right: 0px;
+            
+        }
+
+        .marcas{
+
+            position: absolute;
+            top: 1050px;
+            left: 150px;
+            width: 1250px;
+
+        }
+
+        .whyshould{
+
+            font-family: "Rubik", sans-serif;
+            color: rgb(31, 62, 114);
+            font-size: 250%;
+            position: absolute;
+            top: 1250px;
+            left: 150px;
+        }
+
+        .h321{
+
+            font-family: "Rubik", sans-serif;
+            font-weight: 500;
+            color: rgb( 109, 123, 147);
+            position: absolute;
+            top: 1350px;
+            left: 150px;
+        }
+
+        .h322{
+
+            font-family: "Rubik", sans-serif;
+            font-weight: 500;
+            color: rgb( 109, 123, 147);
+            position: absolute;
+            top: 1380px;
+            left: 150px;
+
+        }
+
+        .h323{
+
+            font-family: "Rubik", sans-serif;
+            font-weight: 500;
+            color: rgb( 109, 123, 147);
+            position: absolute;
+            top: 1410px;
+            left: 150px;
+
+        }
+
+        .triangulo_raya{
+
+            position: absolute;
+            width: 700px;
+            top: 1193px;
+            right: 80px;
+        }
+
+        .cuadrado1{
+
+            background-color: rgb(244, 248, 253);
+            position: absolute;
+            width: 270px;
+            height: 300px;
+            top: 1503px;
+            left: 160px;
+        }
+
+        .cuadro1text{
+
+            font-family: "Rubik", sans-serif;
+            font-weight: 400;
+            color: rgb( 31, 62, 114);
+            position: absolute;
+            top: 90px;
+            left: 35px;
+
+        }
+
+        .cuadrado1text1{
+
+            font-family: "Rubik", sans-serif;
+            font-weight: 400;
+            color: rgb( 31, 62, 114);
+            position: absolute;
+            top: 120px;
+            left: 35px;
+        }
+
+        .cuadrado1text2{
+
+            font-family: "Rubik", sans-serif;
+            font-weight: 400;
+            color: rgb( 120, 133, 155);
+            position: absolute;
+            top: 160px;
+            left: 35px;
+            
+        }
+
+        .cuadrado1text21{
+
+            font-family: "Rubik", sans-serif;
+            font-weight: 400;
+            color: rgb( 120, 133, 155);
+            position: absolute;
+            top: 180px;
+            left: 35px;
+
+        }
+
+        .cuadrado1text22{
+
+            font-family: "Rubik", sans-serif;
+            font-weight: 400;
+            color: rgb( 120, 133, 155);
+            position: absolute;
+            top: 200px;
+            left: 35px;
+        }
+
+        .cuadrado1text23{
+
+            font-family: "Rubik", sans-serif;
+            font-weight: 400;
+            color: rgb( 120, 133, 155);
+            position: absolute;
+            top: 220px;
+            left: 35px;
+
+        }
+
+        .lineicon{
+
+            position: absolute;
+            top: 35px;
+            left: 40px;
+            width: 60x;
+            height: 60px;     
+
+        }
+
+        .cuadrado2{
+
+            background-color: rgb(244, 248, 253);
+            position: absolute;
+            width: 270px;
+            height: 300px;
+            top: 1503px;
+            left: 470px;
+
+        }
+
+        .cuadro2img{
+
+            position: absolute;
+            top: 35px;
+            left: 40px;
+            width: 60x;
+            height: 60px; 
+                
+        }
+        .cuadro2text{
+
+            
+            font-family: "Rubik", sans-serif;
+            font-weight: 400;
+            color: rgb( 31, 62, 114);
+            position: absolute;
+            top: 90px;
+            left: 35px;
+
+        }
+
+        .cuadrado2text1{
+
+            font-family: "Rubik", sans-serif;
+            font-weight: 400;
+            color: rgb( 31, 62, 114);
+            position: absolute;
+            top: 120px;
+            left: 35px;
+
+        }
+
+        .cuadrado3{
+
+            background-color: rgb(244, 248, 253);
+            position: absolute;
+            width: 270px;
+            height: 300px;
+            top: 1503px;
+            left: 780px;
+
+        }
+
+        .cuadrado4{
+
+            background-color: rgb(244, 248, 253);
+            position: absolute;
+            width: 270px;
+            height: 300px;
+            top: 1503px;
+            left: 1090px;
+
+        }
+
+        .triangulo_raya2{
+
+            position: absolute;
+            width: 600px;
+            height: 250px;
+            top: 1903px;
+            left: 80px;
+        }
+
+        .noruse{
+
+            position: absolute;
+            width: 580px;
+            height: 650px;
+            top: 2130px;
+            left: 80px;
+
+        }
+        
+        .preparation{
+
+            font-family: "Rubik", sans-serif;
+            color: rgb(31, 62, 114);
+            font-size: 250%;
+            position: absolute;
+            top: 1965px;
+            right: 220px;
+        }
+
+        .preh3{
+
+            font-family: "Rubik", sans-serif;
+            font-weight: 500;
+            color: rgb( 109, 123, 147);
+            position: absolute;
+            top: 2065px;
+            right: 323px;
+        }
+
+        .preh31{
+
+            font-family: "Rubik", sans-serif;
+            font-weight: 500;
+            color: rgb( 109, 123, 147);
+            position: absolute;
+            top: 2095px;
+            right: 253px;
+        }
+
+        .preh32{
+
+            font-family: "Rubik", sans-serif;
+            font-weight: 500;
+            color: rgb( 109, 123, 147);
+            position: absolute;
+            top: 2125px;
+            right: 352px;
+
+        }
+
+        .preh33{
+
+            font-family: "Rubik", sans-serif;
+            font-weight: 500;
+            color: rgb( 109, 123, 147);
+            position: absolute;
+            top: 2155px;
+            right: 666px;
+        }
+
+        .shieldX{
+
+            height: 30px;
+            width: 30px;
+            position: absolute;
+            top: 2285px;
+            right: 745px;
+        
+        }
+
+        .shieldtextX{
+
+            font-family: "Rubik", sans-serif;
+            font-weight: 400;
+            font-size: 140%;
+            color: rgb(31, 62, 114);
+            position: absolute;
+            top: 2263px;
+            left: 800px;
+
+        }
+
+        .xsq{
+
+            height: 30px;
+            width: 30px;
+            position: absolute;
+            top: 2375px;
+            right: 745px;
+        }
+
+        .xsqtext{
+
+            font-family: "Rubik", sans-serif;
+            font-weight: 400;
+            font-size: 140%;
+            color: rgb(31, 62, 114);
+            position: absolute;
+            top: 2353px;
+            left: 800px;
+        }
+
+        .xsqtext1{
+
+            font-family: "Rubik", sans-serif;
+            font-weight: 500;
+            color: rgb( 109, 123, 147);
+            position: absolute;
+            top: 2385px;
+            left: 800px;
+
+        }
+
+        .xsqtext2{
+
+            font-family: "Rubik", sans-serif;
+            font-weight: 500;
+            color: rgb( 109, 123, 147);
+            position: absolute;
+            top: 2400px;
+            left: 800px;
+
+        }
+
+        .xsqtext3{
+
+            font-family: "Rubik", sans-serif;
+            font-weight: 500;
+            color: rgb( 109, 123, 147);
+            position: absolute;
+            top: 2415px;
+            left: 800px;
+
+        }
+
+        .graphX{
+
+            height: 30px;
+            width: 30px;
+            position: absolute;
+            top: 2500px;
+            left: 745px;
+
+        }
+
+        .graphXtext{
+
+            font-family: "Rubik", sans-serif;
+            font-weight: 400;
+            font-size: 140%;
+            color: rgb(31, 62, 114);
+            position: absolute;
+            top: 2480px;
+            left: 800px;
+
+        }
+
+        .squadreSI{
+
+            height: 30px;
+            width: 30px;
+            position: absolute;
+            top: 2620px;
+            left: 745px;
+        }
+
+        .squadreSItext{
+
+            font-family: "Rubik", sans-serif;
+            font-weight: 400;
+            font-size: 140%;
+            color: rgb(31, 62, 114);
+            position: absolute;
+            top: 2598px;
+            left: 800px;
+        }
+
+        .heart{
+
+            height: 30px;
+            width: 30px;
+            position: absolute;
+            top: 2730px;
+            left: 745px;
+
+        }
+
+        .hearttext{
+
+            font-family: "Rubik", sans-serif;
+            font-weight: 400;
+            font-size: 140%;
+            color: rgb(31, 62, 114);
+            position: absolute;
+            top: 2710px;
+            left: 800px;
+        }
+
+        .emergency{
+
+            font-family: "Rubik", sans-serif;
+            color: rgb(31, 62, 114);
+            font-size: 250%;
+            position: absolute;
+            top: 2900px;
+            left: 150px;
+        }
+
+        .emerh3{
+
+            font-family: "Rubik", sans-serif;
+            font-weight: 500;
+            color: rgb( 109, 123, 147);
+            position: absolute;
+            top: 3000px;
+            left: 150px;
+       }
+
+       .emerh31{
+
+            font-family: "Rubik", sans-serif;
+            font-weight: 500;
+            color: rgb( 109, 123, 147);
+            position: absolute;
+            top: 3030px;
+            left: 150px;
+       }
+
+       .emerh32{
+
+        font-family: "Rubik", sans-serif;
+            font-weight: 500;
+            color: rgb( 109, 123, 147);
+            position: absolute;
+            top: 3060px;
+            left: 150px;
+       }
+
+       .trian_ray{
+
+        position: absolute;
+        width: 700px;
+        top: 2835px;
+        right: 80px;
+
+       }
+
+       .noursem{
+
+        position: absolute;
+        width: 650px;
+        height: 700px;
+        top: 3105px;
+        right: 80px;
+
+       }
+
+       .ucuadro{
+
+            background-color: rgb(244, 248, 253);
+            position: absolute;
+            width: 250px;
+            height: 250px;
+            top: 3265px;
+            left: 150px;
+       }
+
+       .ucuadro1{
+
+        background-color: rgb(244, 248, 253);
+        position: absolute;
+        width: 250px;
+        height: 250px;
+        top: 3265px;
+        left: 450px;
+    }
+
+    .ucuadro2{
+
+        background-color: rgb(244, 248, 253);
+        position: absolute;
+        width: 250px;
+        height: 250px;
+        top: 3555px;
+        left: 150px;
+
+    }
+
+    .ucuadro3{
+
+        background-color: rgb(244, 248, 253);
+        position: absolute;
+        width: 250px;
+        height: 250px;
+        top: 3555px;
+        left: 450px;
+    }
+
+    .call{
+
+        height: 55px;
+        width: 55px;
+        position: absolute;
+        top: 35px;
+        left: 35px;
+    }
+
+    .calltext{
+
+        font-family: "Rubik", sans-serif;
+        font-weight: 400;
+        font-size: 120%;
+        color: rgb(31, 62, 114);
+        position: absolute;
+        top: 15px;
+        left: 105px;
+    }
+
+    .calltext1{
+
+        font-family: "Rubik", sans-serif;
+        font-weight: 400;
+        color: rgb( 109, 123, 147);
+        position: absolute;
+        top: 45px;
+        left: 105px;
+    }
+
+    .callbutom{
+        
+        position: absolute;
+        border-radius: 3%;
+        background-color: rgb(41, 73, 199);
+        height: 50px;
+        width: 170px;
+        top: 150px;
+        left: 40px;
+
+        }
+
+        .callnow{
+            position: absolute;
+            font-family: "Rubik", sans-serif;
+            font-weight: 400;
+            color: white;
+            top: 0px;
+            transform: translate(65%, -25%);
+        }
+
+        .callnow1{
+            position: absolute;
+            font-family: "Rubik", sans-serif;
+            font-weight: 400;
+            color: white;
+            top: 0px;
+            transform: translate(55%, -25%);
+        }
+
+        .callnow2{
+            position: absolute;
+            font-family: "Rubik", sans-serif;
+            font-weight: 400;
+            color: white;
+            top: 0px;
+            transform: translate(17%, -25%);
+        }
+
+        .callnow3{
+
+            position: absolute;
+            font-family: "Rubik", sans-serif;
+            font-weight: 400;
+            color: white;
+            top: 0px;
+            transform: translate(23%, -25%);
+        }
+
+
+        .fot{
+
+            background-color: rgb(238, 243, 255);
+            width: 90%;
+            height: 300px;
+            position: relative;
+            top: 3800px;
+            left: 85px;
+
+        }
+
+        .fontVacc{
+
+            color: rgb( 56, 88, 214);
+            font-family: "Rubik", sans-serif;
+            font-weight: 600;
+            position: absolute;
+            top: 50px;
+            left: 120px;
+        }
+
+        .fontext1{
+
+            font-family: "Rubik", sans-serif;
+            font-weight: 400;
+            color: rgb( 120, 133, 155);
+            position: absolute;
+            top: 95px;
+            left: 120px;
+        }
+
+        .fontext2{
+
+            font-family: "Rubik", sans-serif;
+            font-weight: 400;
+            color: rgb( 120, 133, 155);
+            position: absolute;
+            top: 115px;
+            left: 120px;
+        }
+        .fontext3{
+
+            font-family: "Rubik", sans-serif;
+            font-weight: 400;
+            color: rgb( 120, 133, 155);
+            position: absolute;
+            top: 135px;
+            left: 120px;
+        }
+
+        .fontext4{
+
+            font-family: "Rubik", sans-serif;
+            font-weight: 400;
+            color: rgb( 120, 133, 155);
+            position: absolute;
+            top: 245px;
+            left: 120px; 
+        
+        }
+
+        .about{
+
+            font-family: "Rubik", sans-serif;
+            font-size: 130%;
+            color: rgb(31, 62, 114);
+            font-weight: 600;
+            position: absolute;
+            top: 50px;
+            left: 680px;
+        }
+
+        .abotutext{
+
+            font-family: "Rubik", sans-serif;
+            font-weight: 400;
+            color: rgb( 120, 133, 155);
+            position: absolute;
+            top: 100px;
+            left: 680px;
+        }
+
+        .abotutext1{
+
+            font-family: "Rubik", sans-serif;
+            font-weight: 400;
+            color: rgb( 120, 133, 155);
+            position: absolute;
+            top: 140px;
+            left: 680px;
+        }
+
+        .abotutext2{
+
+            font-family: "Rubik", sans-serif;
+            font-weight: 400;
+            color: rgb( 120, 133, 155);
+            position: absolute;
+            top: 180px;
+            left: 680px;
+        }
+
+        .company{
+
+            font-family: "Rubik", sans-serif;
+            font-size: 130%;
+            color: rgb(31, 62, 114);
+            font-weight: 600;
+            position: absolute;
+            top: 50px;
+            left: 900px;
+        }
+
+        .companytext{
+
+            font-family: "Rubik", sans-serif;
+            font-weight: 400;
+            color: rgb( 120, 133, 155);
+            position: absolute;
+            top: 100px;
+            left: 900px;
+        
+        }
+
+        .companytext1{
+
+            font-family: "Rubik", sans-serif;
+            font-weight: 400;
+            color: rgb( 120, 133, 155);
+            position: absolute;
+            top: 140px;
+            left: 900px;
+        }
+
+        .companytext2{
+
+            font-family: "Rubik", sans-serif;
+            font-weight: 400;
+            color: rgb( 120, 133, 155);
+            position: absolute;
+            top: 180px;
+            left: 900px;
+        }
+
+        .company{
+
+            font-family: "Rubik", sans-serif;
+            font-size: 130%;
+            color: rgb(31, 62, 114);
+            font-weight: 600;
+            position: absolute;
+            top: 50px;
+            left: 900px;
+        }
+
+        .companytext{
+
+            font-family: "Rubik", sans-serif;
+            font-weight: 400;
+            color: rgb( 120, 133, 155);
+            position: absolute;
+            top: 100px;
+            left: 900px;
+        
+        }
+
+        .companytext1{
+
+            font-family: "Rubik", sans-serif;
+            font-weight: 400;
+            color: rgb( 120, 133, 155);
+            position: absolute;
+            top: 140px;
+            left: 900px;
+        }
+
+        .companytext2{
+
+            font-family: "Rubik", sans-serif;
+            font-weight: 400;
+            color: rgb( 120, 133, 155);
+            position: absolute;
+            top: 180px;
+            left: 900px;
+        }
+
+        .suppor{
+
+            font-family: "Rubik", sans-serif;
+            font-size: 130%;
+            color: rgb(31, 62, 114);
+            font-weight: 600;
+            position: absolute;
+            top: 50px;
+            left: 1120px;
+        }
+
+        .supportext{
+
+            font-family: "Rubik", sans-serif;
+            font-weight: 400;
+            color: rgb( 120, 133, 155);
+            position: absolute;
+            top: 100px;
+            left: 1120px;
+        }
+
+        .supportext1{
+
+            font-family: "Rubik", sans-serif;
+            font-weight: 400;
+            color: rgb( 120, 133, 155);
+            position: absolute;
+            top: 140px;
+            left: 1120px;
+        
+        }
+
+        .supportext2{
+
+            font-family: "Rubik", sans-serif;
+            font-weight: 400;
+            color: rgb( 120, 133, 155);
+            position: absolute;
+            top: 180px;
+            left: 1120px;
+        }
+
+        .fontext5{
+
+            font-family: "Rubik", sans-serif;
+            font-weight: 400;
+            color: rgb( 120, 133, 155);
+            position: absolute;
+            top: 245px;
+            left: 920px; 
+        }
+         
+        .fontext6{
+
+            font-family: "Rubik", sans-serif;
+            font-weight: 400;
+            color: rgb( 120, 133, 155);
+            position: absolute;
+            top: 245px;
+            left: 1120px; 
+        }
